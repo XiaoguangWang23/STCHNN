@@ -1,2 +1,2 @@
-# STCH
+# STCHNN
 Spatiotemporal Crossed Hypergraph Neural Networks for Company Financial Fraud Detection
